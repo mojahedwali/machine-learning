@@ -1,0 +1,1 @@
+2.This is a regression problem where the goal is to build a model to predict the saleprice of a house using the poperties of the dataset. The dataset learns relationships between features like area and year it was built and the target value so it can estimate prices for new houses.   
