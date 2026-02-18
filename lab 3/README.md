@@ -5,5 +5,6 @@ data_description.txt - full description of each column, originally prepared by D
 sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 discreption is in :
-![discreption](lab 3/data_description.txt)
+[Open Data Description](data_description.txt)
+
 
